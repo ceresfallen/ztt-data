@@ -99,14 +99,14 @@
         -   index:  0
             name:   "Intro/Emails"
             start:  "start"
-            end:    "00:09:26"
+            end:    "00:09:20.5"
         -   index:  1
             name:   "Bloopers"
-            start:  "00:09:26"
-            end:    "00:11:11"
+            start:  "00:09:20.5"
+            end:    "00:11:10"
         -   index:  2
             name:   "Outro"
-            start:  "00:11:11"
+            start:  "00:11:10"
             end:    "end"
     credits: |-
         00:00:00 - Intro/Emails
