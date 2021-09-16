@@ -1,0 +1,247 @@
+-
+    index: 0
+    filename:       "S1E1_The_Exposure_Solution.mp3"
+    season:         1
+    episode:        1
+    original_name:  "S1E1 - The Exposure Solution"
+    segments:
+        -   index:  0
+            name:   "Cold Open - Secret Zoo - Shadowfax"
+            start:  "start"
+            end:    "00:02:40"
+        -   index:  1
+            name:   "Intro"
+            start:  "00:02:40"
+            end:    "00:12:50"
+        -   index:  2
+            name:   "Sponsors"
+            start:  "00:12:50"
+            end:    "00:13:25"
+        -   index:  3
+            name:   "Ask Zooey (Part 1)"
+            start:  "00:13:25"
+            end:    "00:18:42"
+        -   index:  4
+            name:   "Tijuana Tommy's Commercial"
+            start:  "00:18:42"
+            end:    "00:20:04"
+        -   index:  5
+            name:   "Ask Zooey (Part 2)"
+            start:  "00:20:04"
+            end:    "00:27:54"
+        -   index:  6
+            name:   "Outro"
+            start:  "00:27:54"
+            end:    "end"
+    credits: |-
+        00:00:00 - Cold Open - Secret Zoo - Shadowfax
+        00:02:40 - Intro
+        00:12:50 - Sponsors
+        00:13:25 - Ask Zooey (Part 1)
+        00:18:42 - Tijuana Tommy's Commercial
+        00:20:04 - Ask Zooey (Part 2)
+        00:27:54 - Outro
+        
+        Our first episode exposes to the whole world exactly who zoophiles are
+        and what sorts of terrible shenanigans they've been up to!
+        
+        
+        Concept: Fausty
+        Execution: Toggle
+        
+        Special Thanks goes out to all our cast and crew for putting this
+        together in such a short amount of time! You are all incredible!
+        
+        Thanks to our friends and loved ones for putting up with us being shut
+        up in a studio recording, or stuck in meetings writing, or slaving into
+        the wee hours of the morning on a coffee-fueled work binge.
+        
+        
+        Music:
+        
+        Crypto by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3569-crypto
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Happy Happy Game Show by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3856-happy-happy-game-show
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Lobby Time by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3986-lobby-time
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        
+        "Afternoon Talk Show Tv Theme Music", "Variety Show Tv Theme Music"
+        Radio City, from the album "Old Time TV Music"
+        
+        
+        "Ranchera" provided by TMSC.
+        Free royalty-free music downloaded from the YouTube channel
+        Tumúsicasincopyright.
+        
+        
+        Sound effects gathered from FreeSound.org and zapsplat.org. For a
+        complete list of all sound effects downloaded/used for ZooTT,
+        check out our downloaded sounds.
+        https://freesound.org/people/ToggleRat/downloaded_sounds/
+-
+    index: 1
+    filename:       "S1E1_5_A_Pair_of_April_Fools.mp3"
+    season:         1
+    episode:        1.5
+    original_name:  "S1E1.5 - A Pair of April Fools"
+    segments:
+        -   index:  0
+            name:   "Intro/Emails"
+            start:  "start"
+            end:    "00:09:26"
+        -   index:  1
+            name:   "Bloopers"
+            start:  "00:09:26"
+            end:    "00:11:11"
+        -   index:  2
+            name:   "Outro"
+            start:  "00:11:11"
+            end:    "end"
+    credits: |-
+        00:00:00 - Intro/Emails
+        00:09:26 - Bloopers
+        00:11:11 - Outro
+        
+        Join us for a special half-episode where we talk about the public
+        reaction to our first episode and make fun of Fausty's fake voice!
+        
+        
+        Concept: Fausty
+        Execution: Toggle
+        
+        Thanks to our friends and loved ones for putting up with us being shut
+        up in a studio recording, or stuck in meetings writing, or slaving into
+        the wee hours of the morning on a coffee-fueled work binge.
+        
+        
+        Music
+        
+        Lobby Time by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3986-lobby-time
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Night on the Docks - Piano by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/4131-night-on-the-docks---piano
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Pixelland by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/4222-pixelland
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        
+        "Variety Show Tv Theme Music"
+        Radio City, from the album "Old Time TV Music"
+        
+        
+        Sound effects gathered from FreeSound.org. For a complete list of all
+        sound effects downloaded/used for ZooTT, check out our downloaded
+        sounds.
+        https://freesound.org/people/ToggleRat/downloaded_sounds/
+-
+    index: 2
+    filename:       "S1E2_Weighty_Matters.mp3"
+    season:         1
+    episode:        2
+    original_name:  "S1E2 - Weighty Matters"
+    segments:
+        -   index:  0
+            name:   "Disclaimer/Title"
+            start:  "start"
+            end:    "00:00:26"
+        -   index:  1
+            name:   "Intro/Emails"
+            start:  "00:00:26"
+            end:    "00:21:39"
+        -   index:  2
+            name:   "Sponsors"
+            start:  "00:21:39"
+            end:    "00:22:13"
+        -   index:  3
+            name:   "Betty's Bestiality Brothel Commercial"
+            start:  "00:22:13"
+            end:    "00:25:34"
+        -   index:  4
+            name:   "Zoo News: Weighty Matters"
+            start:  "00:25:34"
+            end:    "00:58:40"
+        -   index:  5
+            name:   "Secret Zoo - The Great Zoophile Conspiracy"
+            start:  "00:58:40"
+            end:    "01:08:18"
+        -   index:  6
+            name:   "Ask Zooey"
+            start:  "01:08:18"
+            end:    "01:14:08"
+        -   index:  7
+            name:   "Outro"
+            start:  "01:14:08"
+            end:    "end"
+    credits: |-
+        00:00:00 - Disclaimer/Title
+        00:00:26 - Intro/E-mails
+        00:21:39 - Sponsors
+        00:22:13 - Betty's Bestiality Brothel Commercial
+        00:25:34 - Zoo News: Weighty Matters
+        00:58:40 - Secret Zoo – The Great Zoophile Conspiracy
+        01:08:18 - Ask Zooey
+        01:14:08 - Outro
+        
+        Join us for an extra long episode covering everything from zoosadism to
+        bestiality brothels. Uncover a secret zoo conspiracy right under your
+        nose!
+        
+        
+        Concept: Fausty
+        Execution: Toggle
+        
+        Thanks to our friends and loved ones for putting up with us being shut
+        up in a studio recording, or stuck in meetings writing, or slaving into
+        the wee hours of the morning on a coffee-fueled work binge.
+        
+        Music:
+        
+        Lobby Time by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3986-lobby-time
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Long Stroll by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3997-long-stroll
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        NewsSting by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/4124-newssting
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        The Complex by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/4488-the-complex
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Hand Balance Redux by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3849-hand-balance-redux
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        El Magicia by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3704-el-magicia
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        “Variety Show Tv Theme Music”, “We’ll Be Right Back Cut to Commercial Tv
+        Music”, “Afternoon Talk Show Tv Theme Music”
+        Radio City, from the album “Old Time TV Music”
+        
+        “Sexy and Romantic song for YouTube Videos”
+        Provided by MusicSongsMusic
+        
+        Sound effects gathered from FreeSound.org. For a complete list of all
+        sound effects downloaded/used for ZooTT, check out our downloaded
+        sounds.
+        https://freesound.org/people/ToggleRat/downloaded_sounds/
+        
+        
+        Random goofy theme music created using the Ditty App
