@@ -8,30 +8,34 @@
         -   index:  0
             name:   "Cold Open - Secret Zoo - Shadowfax"
             start:  "start"
-            end:    "00:02:40"
+            end:    "00:02:38"
         -   index:  1
             name:   "Intro"
-            start:  "00:02:40"
-            end:    "00:12:50"
+            start:  "00:02:38"
+            end:    "00:12:48"
         -   index:  2
             name:   "Sponsors"
-            start:  "00:12:50"
-            end:    "00:13:25"
+            start:  "00:12:48"
+            end:    "00:13:17"
+            note:
+                - "Stud Sparkliest"
+                - "B***h Burka"
+                - "D*sney"
         -   index:  3
             name:   "Ask Zooey (Part 1)"
-            start:  "00:13:25"
-            end:    "00:18:42"
+            start:  "00:13:17"
+            end:    "00:18:38"
         -   index:  4
             name:   "Tijuana Tommy's Commercial"
-            start:  "00:18:42"
-            end:    "00:20:04"
+            start:  "00:18:38"
+            end:    "00:20:02"
         -   index:  5
             name:   "Ask Zooey (Part 2)"
-            start:  "00:20:04"
-            end:    "00:27:54"
+            start:  "00:20:02"
+            end:    "00:27:47"
         -   index:  6
             name:   "Outro"
-            start:  "00:27:54"
+            start:  "00:27:47"
             end:    "end"
     credits: |-
         00:00:00 - Cold Open - Secret Zoo - Shadowfax
