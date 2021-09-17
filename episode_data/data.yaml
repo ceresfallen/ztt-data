@@ -3,7 +3,7 @@
     filename:       "S1E1_The_Exposure_Solution.mp3"
     season:         1
     episode:        1
-    original_name:  "S1E1 - The Exposure Solution"
+    original_name:  "The Exposure Solution"
     segments:
         -   index:  0
             name:   "Cold Open - Secret Zoo - Shadowfax"
@@ -17,7 +17,7 @@
             name:   "Sponsors"
             start:  "00:12:48"
             end:    "00:13:17"
-            note:
+            notes:
                 - "Stud Sparkliest"
                 - "B***h Burka"
                 - "D*sney"
@@ -94,7 +94,7 @@
     filename:       "S1E1_5_A_Pair_of_April_Fools.mp3"
     season:         1
     episode:        1.5
-    original_name:  "S1E1.5 - A Pair of April Fools"
+    original_name:  "A Pair of April Fools"
     segments:
         -   index:  0
             name:   "Intro/Emails"
@@ -153,7 +153,7 @@
     filename:       "S1E2_Weighty_Matters.mp3"
     season:         1
     episode:        2
-    original_name:  "S1E2 - Weighty Matters"
+    original_name:  "Weighty Matters"
     segments:
         -   index:  0
             name:   "Disclaimer/Title"
@@ -167,6 +167,10 @@
             name:   "Sponsors"
             start:  "00:21:39"
             end:    "00:22:13"
+            notes:
+                - "Loving Lucy's Lucious Lube"
+                - "Whatever project Fausty has going right now"
+                - "Looney Tunes"
         -   index:  3
             name:   "Betty's Bestiality Brothel Commercial"
             start:  "00:22:13"
@@ -249,3 +253,1741 @@
         
         
         Random goofy theme music created using the Ditty App
+-
+    index: 3
+    filename:       "S1E2_5_Zoosadism_Update.mp3"
+    season:         1
+    episode:        2.5
+    original_name:  "Zoosadism Update"
+    segments:
+        -   index:  0
+            name:   "Zoosadism Update"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        00:00:00 - Zoosadism Update
+        
+        An update from the dark places our podcast took us down over the past
+        two weeks. It's an ugly mess, but we try to lay it out and make sense of
+        it.
+        
+        
+        Concept: Fausty
+        Execution: Toggle
+        
+        Thanks to our friends and loved ones for putting up with us being shut
+        up in a studio recording, or stuck in meetings writing, or slaving into
+        the wee hours of the morning on a coffee-fueled work binge.
+        
+        Music:
+        
+        The Complex by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/4488-the-complex
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        "Variety Show Tv Theme Music"
+        Radio City, from the album "Old Time TV Music"
+-
+    index: 4
+    todo:
+        - "Check timestamps."
+        - "List sponsors from segment."
+    filename:       "S1E3_Our_Best_Selves.mp3"
+    season:         1
+    episode:        3
+    original_name:  "S1E3 - Our Best Selves"
+    segments:
+        -   index:  0
+            name:   "Disclaimer/Title"
+            start:  "start"
+            end:    "00:00:26"
+        -   index:  1
+            name:   "Intro/Emails/Our Best Selves"
+            start:  "00:00:26"
+            end:    "00:11:27"
+        -   index:  2
+            name:   "Sponsors"
+            start:  "00:11:27"
+            end:    "00:12:17"
+        -   index:  3
+            name:   "Secret Zoo - Blackmail"
+            start:  "00:12:17"
+            end:    "00:17:26"
+        -   index:  4
+            name:   "Interview with ZT Horse"
+            start:  "00:17:26"
+            end:    "00:48:34"
+        -   index:  5
+            name:   "Ask Zooey"
+            start:  "00:48:34"
+            end:    "01:04:41"
+        -   index:  6
+            name:   "Outro"
+            start:  "01:04:41"
+            end:    "end"
+    credits: |-
+        00:00:00 - Disclaimer/Title
+        00:00:26 - Intro/Emails/Our Best Selves
+        00:11:27 - Sponsors
+        00:12:17 - Secret Zoo - Blackmail
+        00:17:26 - Interview with ZT Horse
+        00:48:34 - Ask Zooey
+        01:04:41 - Outro
+        
+        This week, we take a more positive turn and focus on being the best we
+        can be. Featuring an interview with Zoo Pride Day founder ZT Horse, a
+        $10,000 secret, and a brand new Ask Zooey segment!
+        
+        
+        Concept: Fausty
+        Execution: Toggle
+        
+        Thanks to our friends and loved ones for putting up with us being shut
+        up in a studio recording, or stuck in meetings writing, or slaving into
+        the wee hours of the morning on a coffee-fueled work binge.
+        
+        Music:
+        
+        Bossa Antigua by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3454-bossa-antigua
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Airport Lounge by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3347-airport-lounge
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Lobby Time by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3986-lobby-time
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Inspired by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3918-inspired
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Leaving Home by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/4708-leaving-home
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        "Variety Show Tv Theme Music", 
+        "We'll Be Right Back Cut to Commercial Tv Music",
+        "Variety Show Segment Intro Tv Music",
+        "Afternoon Talk Show Tv Theme Music"
+        Radio City, from the album "Old Time TV Music"
+        
+        Sound effects gathered from FreeSound.org. For a complete list of all
+        sound effects downloaded/used for ZooTT, check out our downloaded
+        sounds.
+        https://freesound.org/people/ToggleRat/downloaded_sounds/
+        
+        Random goofy theme music created using the Ditty App, and brought back
+        because you asked for it!
+-
+    index: 5
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        3.5
+    original_name:  "Grazing the ZooTT Mailbag"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        00:00:00 - Intro
+        00:01:19 - Website Issues
+        00:11:42 - Mailbag - Dog Park Princess
+        00:20:49 - Mailbag - Husband of a Mare
+        00:31:20 - Mailbag - Desert Rat
+        00:52:24 - Mailbag - Bearly Tame
+        00:59:29 - Call for Eulogies
+        01:02:20 - Outro
+        
+        This week, our intrepid hosts talk about the weird website issues at zoo.wtf, and then take a deep dive into the ZooTT mailbag, musing over a lot of zooey themes in this off-the-cuff episode.
+        
+        
+        Concept: Fausty
+        Execution: Toggle
+        
+        Thanks to our friends and loved ones for putting up with us being shut up in a studio recording, or stuck in meetings writing, or slaving into the wee hours of the morning on a coffee-fueled work binge.
+        
+        Music:
+        
+        Lobby Time by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3986-lobby-time
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Night on the Docks - Piano by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/4131-night-on-the-docks---piano
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        The Complex by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/4488-the-complex
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        â€œVariety Show Tv Theme Music,â€ 
+        Radio City, from the album â€œOld Time TV Musicâ€
+        
+        Sound effects gathered from FreeSound.org. For a complete list of all sound effects downloaded/used for ZooTT, check out our downloaded sounds.
+        https://freesound.org/people/ToggleRat/downloaded_sounds/
+-
+    index: 6
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        4
+    original_name:  "Fausty’s Cardboard Stand-in"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        00:00:00 - Disclaimer/Intro
+        00:00:26 - Intro/E-mails
+        00:13:09 - Sponsors
+        00:14:13 - Zooish vs. Zooey
+        00:16:00 - Interview with Kyon
+        00:49:53 - Ask Zooey
+        01:04:15 - Outro
+        
+        In this special episode, Kyon fills in as guest host while Fausty's on a secret mission, Zooey helps a dog facing the horrors of Breed-Specific Legislation, and we debate the hottest topic on the zoo scene: Zooey, or Zooish?
+        
+        
+        Concept: Fausty
+        Execution: Toggle
+        Special Guest Host: Kyon
+        
+        Thanks to our friends and loved ones for putting up with us being shut up in a studio recording, or stuck in meetings writing, or slaving into the wee hours of the morning on a coffee-fueled work binge.
+        
+        Music:
+        
+        Airport Lounge by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3347-airport-lounge
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Lobby Time by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3986-lobby-time
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        NewsSting by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/4124-newssting
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        â€œVariety Show Tv Theme Music,â€ â€œTV Talk Show Intro Music,â€ 
+        Radio City, from the album â€œOld Time TV Music,â€ â€œWeâ€™ll Be Right Back Cut to Commercial Tv Musicâ€
+        
+        
+        Sound effects gathered from FreeSound.org. For a complete list of all sound effects downloaded/used for ZooTT, check out our downloaded sounds.
+        https://freesound.org/people/ToggleRat/downloaded_sounds/
+-
+    index: 7
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        4.5
+    original_name:  "Zoo Pride Day!"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        00:00:00 - Intro
+        00:01:15 - Shooting the Shit
+        00:17:09 - Zoo Pride
+        00:31:58 - "What Does Zoo Pride Mean to Me?"
+        00:35:02 - Zooey Limericks
+        00:47:00 - Fausty Sings?
+        00:54:13 - A Message from Fausty
+        01:06:23 - Outro
+        
+        Join Fausty, Toggle, and Kyon for the first annual Zoo Pride celebration! Our hosts ask the community about the meaning of zoo pride, share some zooey limericks, and enjoy good zooey times with good zooey friends.
+        
+        
+        Concept: Fausty
+        Execution: Toggle
+        Special Guest Host: Kyon
+        
+        Thanks to our friends and loved ones for putting up with us being shut up in a studio recording, or stuck in meetings writing, or slaving into the wee hours of the morning on a coffee-fueled work binge.
+        
+        Special Thanks to everyone in the community that participated in this episode! We love you so much!
+        
+        Music:
+        
+        Airship Serenity by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3348-airship-serenity
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Nowhere Land by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/4148-nowhere-land
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Gymnopedie No. 1 by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3837-gymnopedie-no-1
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        
+        Beachfront Celebration by Kevin MacLeod 
+        Licensed under Creative Commons: By Attribution 3.0 License
+        http://creativecommons.org/licenses/by/3.0/
+        
+        â€œVariety Show Tv Theme Music,â€ 
+        Radio City, from the album â€œOld Time TV Musicâ€
+        
+        Sound effects gathered from FreeSound.org. For a complete list of all sound effects downloaded/used for ZooTT, check out our downloaded sounds.
+        https://freesound.org/people/ToggleRat/downloaded_sounds/
+-
+    index: 8
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        5
+    original_name:  "It Gets Zooier"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        00:00:00 - Disclaimer/Title
+        00:00:26 - Intro/Emails
+        00:12:25 - Sponsors
+        00:13:08 - Secret Zoo - Alexander the Great
+        00:19:24 - Interview with Doodle Donkey
+        01:07:20 - Ask Zooey
+        01:25:05 - Fausty's Cancer Update
+        01:27:19 - Outro
+        
+        This episode, the boys interview Doodle Donkey, horse whisperer and zoo-exclusive podcast listener! Also, find out what was so Great about Alexander, delve into the ethics of fencehopping, and celebrate the diversity of zooey lifestyles!
+        
+        
+        Concept: Fausty
+        Execution: Toggle
+        
+        Thanks to our friends and loved ones for putting up with us being shut up in a studio recording, or stuck in meetings writing, or slaving into the wee hours of the morning on a coffee-fueled work binge.
+        
+        Special Thanks to everyone in the community that participated in this episode! We love you so much!
+        
+        Music:
+        
+        Lobby Time by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3986-lobby-time
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Gymnopedie No. 1 by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3837-gymnopedie-no-1
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Airport Lounge by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3347-airport-lounge
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        â€œVariety Show Tv Theme Music,â€ â€œWeâ€™ll Be Right Back Cut to Commercial Tv Music,â€ â€œVariety Show Segment Intro Tv Music,â€ â€œAfternoon Talk Show Tv Theme Music,â€ 
+        Radio City, from the album â€œOld Time TV Musicâ€
+        
+        Sound effects gathered from FreeSound.org. For a complete list of all sound effects downloaded/used for ZooTT, check out our downloaded sounds.
+        https://freesound.org/people/ToggleRat/downloaded_sounds/
+-
+    index: 9
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        5.5
+    original_name:  "The Safety Dance!"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        00:00:00 - Intro
+        00:05:05 - An Important Statement
+        00:08:13 - E-mails
+        00:24:20 - The Safety Dance
+        01:13:12 - Outro
+        
+        We can bark if you want to! In this episode, hosts Fausty and Toggle are joined by Kyon for an off-the-cuff discussion about safety in the zoo community!
+        
+        
+        Concept: Fausty
+        Execution: Toggle
+        Special Guest Host: Kyon
+        
+        Artists wish to go uncredited, but this wouldnâ€™t be the same without their work!
+        Thanks to our friends and loved ones for putting up with us being shut up in a studio recording, or stuck in meetings writing, or slaving into the wee hours of the morning on a coffee-fueled work binge.
+        
+        Special Thanks to everyone in the community that participated in this episode! We love you so much!
+        
+        Music:
+        
+        Long Stroll by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3997-long-stroll
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Bossa Antigua by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3454-bossa-antigua
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Inspired by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3918-inspired
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        â€œVariety Show Tv Theme Music,â€ 
+        Radio City, from the album â€œOld Time TV Musicâ€
+        
+        Sound effects gathered from FreeSound.org. For a complete list of all sound effects downloaded/used for ZooTT, check out our downloaded sounds.
+        https://freesound.org/people/ToggleRat/downloaded_sounds/
+-
+    index: 10
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        6
+    original_name:  "The World Needs Zooish Wisdom!"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        00:00:00 - Disclaimer/Title
+        00:00:26 - Intro/E-mails
+        00:39:32 - Sponsors
+        00:40:26 - Bestfinster Dog Show â€“ Best In Show
+        00:53:13 - The Safety Dance, revisited, featuring â€œSteveâ€
+        01:19:09 - Secret Zoo - Rin Tin Tin
+        01:27:07 - Fur and Loving in Alaska
+        01:28:03 - Ask Zooey
+        01:37:19 - Outro
+        
+        In this extra jam-packed episode, Toggle and Fausty discuss zooish wisdom, Zooey is a commentator for a dog show, a Hollywood superstar tells all about his cross-species romance, a gonzo journalist recounts an Alaskan encounter, and more!
+        
+        
+        Concept: Fausty
+        Execution: Toggle
+        
+        Thanks to our friends and loved ones for putting up with us being shut up in a studio recording, or stuck in meetings writing, or slaving into the wee hours of the morning on a coffee-fueled work binge.
+        
+        Special Thanks to everyone in the community that participated in this episode! We love you so much!
+        
+        Music
+        
+        Lobby Time by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3986-lobby-time
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Airship Serenity by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3348-airship-serenity
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Bossa Antigua by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3454-bossa-antigua
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Airport Lounge by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3347-airport-lounge
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        â€œVariety Show Tv Theme Music,â€ â€œWeâ€™ll Be Right Back Cut to Commercial Tv Music,â€ â€œVariety Show Segment Intro Tv Music,â€ â€œTv Talk Show Intro Music,â€ â€œRadio Show Finale Fanfare,â€ â€œOld Time Radio American Music,â€ 
+        Radio City, from the album â€œOld Time TV Musicâ€
+        
+        â€œThe Four Seasons â€“ Spring â€“ Movement 1 Allegro,â€ written by Vivaldi, performed by John Harrison with the Wichita State University Chamber Players
+        
+        â€œTempel Iaru,â€ by Pyramidal, from the album Dawn in Space, provided by â€œFree music for youtube videosâ€
+        https://www.youtube.com/channel/UCEbThM6E_J9V23g3kKaGmYQ
+        
+        Sound effects gathered from FreeSound.org. For a complete list of all sound effects downloaded/used for ZooTT, check out our downloaded sounds.
+        https://freesound.org/people/ToggleRat/downloaded_sounds/
+-
+    index: 11
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        6.5
+    original_name:  "Media Mastery"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        00:00:00 - Disclaimer
+        00:00:09 - Intro/E-mail
+        00:13:05 - Media Mastery
+        01:26:09 - Interview with Volf
+        02:01:32 - Outro
+        
+        This New Moon episode of ZooTT discusses defining our zooey narrative in a media landscape in which zoos regularly face erasure and disenfranchisement. We are also joined by Volf, who discusses his experience using his voice to amplify zooey issues on a hostile podcast.
+        
+        
+        Concept: Fausty
+        Execution: Toggle
+        Special Guest: Volf
+        
+        Thanks to our friends and loved ones for putting up with us being shut up in a studio recording, or stuck in meetings writing, or slaving into the wee hours of the morning on a coffee-fueled work binge.
+        
+        Special Thanks to everyone in the community that participated in this episode! We love you so much!
+        
+        Music:
+        
+        Long Stroll by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3997-long-stroll
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Airport Lounge by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3347-airport-lounge
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Lobby Time by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3986-lobby-time
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        Gymnopedie No. 1 by Kevin MacLeod
+        Link: https://incompetech.filmmusic.io/song/3837-gymnopedie-no-1
+        License: http://creativecommons.org/licenses/by/4.0/
+        
+        â€œVariety Show Tv Theme Music,â€ â€œTv Talk Show Intro Music,â€ â€œOld Time Radio American Music,â€
+        Radio City, from the album â€œOld Time TV Musicâ€
+        
+        â€œSax Sexual,â€
+        Smooth Jazz Sax Instrumentals, from the album â€œAfter Dark Jazz.â€
+        
+        Sound effects gathered from FreeSound.org. For a complete list of all sound effects downloaded/used for ZooTT, check out our downloaded sounds.
+        https://freesound.org/people/ToggleRat/downloaded_sounds/
+-
+    index: 12
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        7
+    original_name:  "Women in the Zoo Community"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 13
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        7.5
+    original_name:  "Lucid Moments"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 14
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        8
+    original_name:  "Healthy, Happy, and Zooey"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 15
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        8.5
+    original_name:  "Howloween!"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 16
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        8.51
+    original_name:  "The Legend of Thomas Granger"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 17
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        9
+    original_name:  "Legal Beagles (Part 1)"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 18
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        9.5
+    original_name:  "Thankful for Non-Zoo Allies"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 19
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        10
+    original_name:  "'Tis the Season for Coming Out"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 20
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        10.5
+    original_name:  "Happy Zoo Year!"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 21
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        11
+    original_name:  "Tales of Zoo History"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 22
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        11.5
+    original_name:  "A Zoo's Legacy"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 23
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        12
+    original_name:  "ZETA Verein"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 24
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         1
+    episode:        12.5
+    original_name:  "Twelve Months of ZooTT"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 25
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        1
+    original_name:  "The Path Forward"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 26
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        1.01
+    original_name:  "ZETA Verein – The Politics of Veganism (Bonus Content)"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 27
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        1.02
+    original_name:  "Around the World – Sweden – Svad (Bonus Content)"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 28
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        2
+    original_name:  "The Furry Fandom"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 29
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        2.01
+    original_name:  "Zoom, Zencastr, and Animal Crossing (Bonus Content)"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 30
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        3
+    original_name:  "Mixed Relationships: Zoos and Non-Zoos"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 31
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        3.01
+    original_name:  "Felching, Swat Teams, and Depositions (Bonus Content)"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 32
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        4
+    original_name:  "A Culture of Caring"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 33
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        5
+    original_name:  "Zoo Pride 2020!"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 34
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        6
+    original_name:  "Healthy, Happy, and Zooey 2020"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 35
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        6.01
+    original_name:  "Mindfulness Meditation with Canis Gnosis"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 36
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        6.02
+    original_name:  "Cry Harder"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 37
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        6.0.3
+    original_name:  "Pyrometra PSA"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 38
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        7
+    original_name:  "Trans People in the Zoo Community"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 39
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        7.01
+    original_name:  "Double Dog Dare"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 40
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        7.02
+    original_name:  "The Furry Who Would Be Zoo: Where Blanchard, Bailey, and the Zoo Community Intersect"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 41
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        8
+    original_name:  "Howloween 2020!"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 42
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        8.01
+    original_name:  "Discussion with a Non-Zoo"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 43
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        8.02
+    original_name:  "14 Werewolves"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 44
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        8.03
+    original_name:  "ZooTube"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 45
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        9
+    original_name:  "The Traveling Zoo"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 46
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        9.01
+    original_name:  "Crabs in a Bucket (Part 1)"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 47
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        10
+    original_name:  "It Starts with Respect"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 48
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        10.01
+    original_name:  "Amen"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 49
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        10.02
+    original_name:  "2020 Reflections, 2021 Resolutions"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 50
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        10.03
+    original_name:  "The Origin of Zooier Than Thou"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 51
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        11
+    original_name:  "Therianthropy"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 52
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        11.01
+    original_name:  "Crabs in a Bucket (Part 2)"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 53
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         2
+    episode:        12
+    original_name:  "How to Make a Podcast"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 54
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         3
+    episode:        1
+    original_name:  "Zoophilia and Religion"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 55
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         3
+    episode:        1.01
+    original_name:  "You're the Stud"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 56
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         3
+    episode:        1.02
+    original_name:  "Pan Hu the Doggie King"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 57
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         3
+    episode:        2
+    original_name:  "Defining Our Culture and Our Spaces"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 58
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         3
+    episode:        2.01
+    original_name:  "Understanding Zoosadism and Defining Gray Areas"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 59
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         3
+    episode:        3
+    original_name:  "Get Help!"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 60
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         3
+    episode:        3.01
+    original_name:  "Half of What You Are"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 61
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         3
+    episode:        4
+    original_name:  "Before Stonewall - The High Cost of Silence"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 62
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         3
+    episode:        4.01
+    original_name:  "King of the Pride"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 63
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         3
+    episode:        5
+    original_name:  "Following in Queer Footsteps"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 64
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         3
+    episode:        5.01
+    original_name:  "Loud and Proud"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 65
+    todo:
+        - "fix filename"
+        - "fix original name"
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       ""
+    season:         3
+    episode:        6
+    original_name:  "Coming Out 2021"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
