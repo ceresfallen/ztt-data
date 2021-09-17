@@ -384,13 +384,11 @@
 -
     index: 5
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E3_5_Grazing_the_ZooTT_Mailbag.mp3"
     season:         1
     episode:        3.5
     original_name:  "Grazing the ZooTT Mailbag"
@@ -439,14 +437,12 @@
 -
     index: 6
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E4_Faustys_Cardboard_Stand-in.mp3"
     season:         1
     episode:        4
     original_name:  "Fausty’s Cardboard Stand-in"
@@ -496,14 +492,12 @@
 -
     index: 7
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E4_5_Zoo_Pride_Day.mp3"
     season:         1
     episode:        4.5
     original_name:  "Zoo Pride Day!"
@@ -560,14 +554,12 @@
 -
     index: 8
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E5_It_Gets_Zooier.mp3"
     season:         1
     episode:        5
     original_name:  "It Gets Zooier"
@@ -618,14 +610,12 @@
 -
     index: 9
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E5_5_The_Safety_Dance.mp3"
     season:         1
     episode:        5.5
     original_name:  "The Safety Dance!"
@@ -675,14 +665,12 @@
 -
     index: 10
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E6-The_World_Needs_Zooish_Wisdom.mp3"
     season:         1
     episode:        6
     original_name:  "The World Needs Zooish Wisdom!"
@@ -743,14 +731,12 @@
 -
     index: 11
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E6_5_Media_Mastery.mp3"
     season:         1
     episode:        6.5
     original_name:  "Media Mastery"
@@ -806,15 +792,13 @@
 -
     index: 12
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E7_Women_in_the_Zoo_Community.mp3"
     season:         1
     episode:        7
     original_name:  "Women in the Zoo Community"
@@ -828,15 +812,13 @@
 -
     index: 13
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E7_5_Lucid_Moments.mp3"
     season:         1
     episode:        7.5
     original_name:  "Lucid Moments"
@@ -850,15 +832,13 @@
 -
     index: 14
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E8_Healthy_Happy_and_Zooey.mp3"
     season:         1
     episode:        8
     original_name:  "Healthy, Happy, and Zooey"
@@ -872,15 +852,13 @@
 -
     index: 15
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E8_5_Howloween.mp3"
     season:         1
     episode:        8.5
     original_name:  "Howloween!"
@@ -894,15 +872,13 @@
 -
     index: 16
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "Halloween Tom Granger.mp3"
     season:         1
     episode:        8.51
     original_name:  "The Legend of Thomas Granger"
@@ -916,15 +892,13 @@
 -
     index: 17
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E9_Legal_Beagles_1.mp3"
     season:         1
     episode:        9
     original_name:  "Legal Beagles (Part 1)"
@@ -938,15 +912,13 @@
 -
     index: 18
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E9_5_Thankful_for_Non-Zoo_Allies.mp3"
     season:         1
     episode:        9.5
     original_name:  "Thankful for Non-Zoo Allies"
@@ -960,15 +932,13 @@
 -
     index: 19
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E10_Tis_the_Season_for_Coming_Out.mp3"
     season:         1
     episode:        10
     original_name:  "'Tis the Season for Coming Out"
@@ -982,15 +952,13 @@
 -
     index: 20
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E10_5_Happy_Zoo_Year.mp3"
     season:         1
     episode:        10.5
     original_name:  "Happy Zoo Year!"
@@ -1004,15 +972,13 @@
 -
     index: 21
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E11_Tales_of_Zoo_History.mp3"
     season:         1
     episode:        11
     original_name:  "Tales of Zoo History"
@@ -1026,15 +992,13 @@
 -
     index: 22
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E11_5_A_Zoos_Legacy.mp3"
     season:         1
     episode:        11.5
     original_name:  "A Zoo's Legacy"
@@ -1048,15 +1012,13 @@
 -
     index: 23
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E12_ZETA_Verein.mp3"
     season:         1
     episode:        12
     original_name:  "ZETA Verein"
@@ -1070,15 +1032,13 @@
 -
     index: 24
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S1E12_5_Twelve_Months_of_ZooTT.mp3"
     season:         1
     episode:        12.5
     original_name:  "Twelve Months of ZooTT"
@@ -1092,15 +1052,13 @@
 -
     index: 25
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E1_The_Path_Forward.mp3"
     season:         2
     episode:        1
     original_name:  "The Path Forward"
@@ -1114,15 +1072,13 @@
 -
     index: 26
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E1_Bonus_ZETA_Veganism.mp3"
     season:         2
     episode:        1.01
     original_name:  "ZETA Verein – The Politics of Veganism (Bonus Content)"
@@ -1136,15 +1092,13 @@
 -
     index: 27
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E1_Bonus_AtW_Sweden_Svad.mp3"
     season:         2
     episode:        1.02
     original_name:  "Around the World – Sweden – Svad (Bonus Content)"
@@ -1158,15 +1112,13 @@
 -
     index: 28
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E2_The_Furry_Fandom.mp3"
     season:         2
     episode:        2
     original_name:  "The Furry Fandom"
@@ -1180,15 +1132,13 @@
 -
     index: 29
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E2_Bonus_Zoom_Zencaster_and_Animal_Crossing.mp3"
     season:         2
     episode:        2.01
     original_name:  "Zoom, Zencastr, and Animal Crossing (Bonus Content)"
@@ -1202,15 +1152,13 @@
 -
     index: 30
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E3_Mixed_Relationships_Zoos_and_NonZoos.mp3"
     season:         2
     episode:        3
     original_name:  "Mixed Relationships: Zoos and Non-Zoos"
@@ -1224,15 +1172,13 @@
 -
     index: 31
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E3_Bonus_Felching_Swat_Teams_and_Depositions.mp3"
     season:         2
     episode:        3.01
     original_name:  "Felching, Swat Teams, and Depositions (Bonus Content)"
@@ -1246,15 +1192,13 @@
 -
     index: 32
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E4_A_Culture_of_Caring.mp3"
     season:         2
     episode:        4
     original_name:  "A Culture of Caring"
@@ -1268,15 +1212,13 @@
 -
     index: 33
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E5_Zoo_Pride_2020.mp3"
     season:         2
     episode:        5
     original_name:  "Zoo Pride 2020!"
@@ -1290,15 +1232,13 @@
 -
     index: 34
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E6_Healthy_Happy_Zooey_2020.mp3"
     season:         2
     episode:        6
     original_name:  "Healthy, Happy, and Zooey 2020"
@@ -1312,15 +1252,13 @@
 -
     index: 35
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E6_Bonus_Mindfulness_Meditation.mp3"
     season:         2
     episode:        6.01
     original_name:  "Mindfulness Meditation with Canis Gnosis"
@@ -1334,15 +1272,13 @@
 -
     index: 36
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E6_Bonus_Rap.mp3"
     season:         2
     episode:        6.02
     original_name:  "Cry Harder"
@@ -1356,15 +1292,13 @@
 -
     index: 37
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E6_Bonus_Pyometra.mp3"
     season:         2
     episode:        6.0.3
     original_name:  "Pyrometra PSA"
@@ -1378,15 +1312,13 @@
 -
     index: 38
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E7_Trans_People_in_the_Zoo_Community.mp3"
     season:         2
     episode:        7
     original_name:  "Trans People in the Zoo Community"
@@ -1400,15 +1332,13 @@
 -
     index: 39
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E7_Bonus_Rap.mp3"
     season:         2
     episode:        7.01
     original_name:  "Double Dog Dare"
@@ -1422,59 +1352,13 @@
 -
     index: 40
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
-    season:         2
-    episode:        7.02
-    original_name:  "The Furry Who Would Be Zoo: Where Blanchard, Bailey, and the Zoo Community Intersect"
-    segments:
-        -   index:  0
-            name:   "entire episode"
-            start:  "start"
-            end:    "end"
-    credits: |-
-        pass
--
-    index: 41
-    todo:
-        - "fix filename"
-        - "fix original name"
-        - "list segments"
-        - "Check segment timestamps."
-        - "list sponsors (if sponsors segment exists)"
-        - "transclude credits"
-        - "decode credits mojibake"
-        - "line wrap credits for this file better"
-    filename:       ""
-    season:         2
-    episode:        8
-    original_name:  "Howloween 2020!"
-    segments:
-        -   index:  0
-            name:   "entire episode"
-            start:  "start"
-            end:    "end"
-    credits: |-
-        pass
--
-    index: 42
-    todo:
-        - "fix filename"
-        - "fix original name"
-        - "list segments"
-        - "Check segment timestamps."
-        - "list sponsors (if sponsors segment exists)"
-        - "transclude credits"
-        - "decode credits mojibake"
-        - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E8_Bonus_Discussion_with_a_Non_Zoo.mp3"
     season:         2
     episode:        8.01
     original_name:  "Discussion with a Non-Zoo"
@@ -1486,17 +1370,55 @@
     credits: |-
         pass
 -
-    index: 43
+    index: 41
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E7_Bonus_The_Furry_Who_Would_Be_Zoo.mp3"
+    season:         2
+    episode:        7.02
+    original_name:  "The Furry Who Would Be Zoo: Where Blanchard, Bailey, and the Zoo Community Intersect"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 42
+    todo:
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       "S2E8_Howloween_2020.mp3"
+    season:         2
+    episode:        8
+    original_name:  "Howloween 2020!"
+    segments:
+        -   index:  0
+            name:   "entire episode"
+            start:  "start"
+            end:    "end"
+    credits: |-
+        pass
+-
+    index: 43
+    todo:
+        - "list segments"
+        - "Check segment timestamps."
+        - "list sponsors (if sponsors segment exists)"
+        - "transclude credits"
+        - "decode credits mojibake"
+        - "line wrap credits for this file better"
+    filename:       "S2E8_Bonus_14_Werewolves.mp3"
     season:         2
     episode:        8.02
     original_name:  "14 Werewolves"
@@ -1510,15 +1432,13 @@
 -
     index: 44
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E8_Bonus_ZooTube.mp3"
     season:         2
     episode:        8.03
     original_name:  "ZooTube"
@@ -1532,15 +1452,13 @@
 -
     index: 45
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E9_The_Traveling_Zoo.mp3"
     season:         2
     episode:        9
     original_name:  "The Traveling Zoo"
@@ -1554,15 +1472,13 @@
 -
     index: 46
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E9_Bonus_Crabs_in_a_Bucket_Part_1.mp3"
     season:         2
     episode:        9.01
     original_name:  "Crabs in a Bucket (Part 1)"
@@ -1576,15 +1492,13 @@
 -
     index: 47
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E10_It_Starts_with_Respect.mp3"
     season:         2
     episode:        10
     original_name:  "It Starts with Respect"
@@ -1598,15 +1512,13 @@
 -
     index: 48
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E10_Bonus_Amen.mp3"
     season:         2
     episode:        10.01
     original_name:  "Amen"
@@ -1620,15 +1532,13 @@
 -
     index: 49
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E10_Bonus_2020_Reflections_2021_Resolutions.mp3"
     season:         2
     episode:        10.02
     original_name:  "2020 Reflections, 2021 Resolutions"
@@ -1642,15 +1552,13 @@
 -
     index: 50
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E10_Bonus_ZooTT_Origins.mp3"
     season:         2
     episode:        10.03
     original_name:  "The Origin of Zooier Than Thou"
@@ -1664,15 +1572,13 @@
 -
     index: 51
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E11_Therianthropy.mp3"
     season:         2
     episode:        11
     original_name:  "Therianthropy"
@@ -1686,15 +1592,13 @@
 -
     index: 52
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E11_Bonus_Crabs_in_a_Bucket_Part_2.mp3"
     season:         2
     episode:        11.01
     original_name:  "Crabs in a Bucket (Part 2)"
@@ -1708,15 +1612,13 @@
 -
     index: 53
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S2E12_How_to_Make_a_Podcast.mp3"
     season:         2
     episode:        12
     original_name:  "How to Make a Podcast"
@@ -1730,15 +1632,13 @@
 -
     index: 54
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S3E1_Zoophilia_and_Religion.mp3"
     season:         3
     episode:        1
     original_name:  "Zoophilia and Religion"
@@ -1752,15 +1652,13 @@
 -
     index: 55
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S3E1_Bonus_Youre_the_Stud.mp3"
     season:         3
     episode:        1.01
     original_name:  "You're the Stud"
@@ -1774,15 +1672,13 @@
 -
     index: 56
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S3E1_Bonus_Pan_Hu_the_Doggie_King.mp3"
     season:         3
     episode:        1.02
     original_name:  "Pan Hu the Doggie King"
@@ -1796,15 +1692,13 @@
 -
     index: 57
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S3E2_Defining_Our_Culture_and_Our_Spaces.mp3"
     season:         3
     episode:        2
     original_name:  "Defining Our Culture and Our Spaces"
@@ -1818,15 +1712,13 @@
 -
     index: 58
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S3E2_Bonus_Understanding_Zoosadism_and_Defining_Gray_Areas.mp3"
     season:         3
     episode:        2.01
     original_name:  "Understanding Zoosadism and Defining Gray Areas"
@@ -1840,15 +1732,13 @@
 -
     index: 59
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S3E3_Get_Help.mp3"
     season:         3
     episode:        3
     original_name:  "Get Help!"
@@ -1862,15 +1752,13 @@
 -
     index: 60
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S3E3_Bonus_Half_of_What_You_Are.mp3"
     season:         3
     episode:        3.01
     original_name:  "Half of What You Are"
@@ -1884,15 +1772,13 @@
 -
     index: 61
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S3E4_Before_Stonewall_The_High_Cost_of_Silence.mp3"
     season:         3
     episode:        4
     original_name:  "Before Stonewall - The High Cost of Silence"
@@ -1906,15 +1792,13 @@
 -
     index: 62
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S3E4_Bonus_King_of_the_Pride.mp3"
     season:         3
     episode:        4.01
     original_name:  "King of the Pride"
@@ -1928,15 +1812,13 @@
 -
     index: 63
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S3E5_Following_in_Queer_Footsteps.mp3"
     season:         3
     episode:        5
     original_name:  "Following in Queer Footsteps"
@@ -1950,15 +1832,13 @@
 -
     index: 64
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S3E5_Bonus_Loud_and_Proud.mp3"
     season:         3
     episode:        5.01
     original_name:  "Loud and Proud"
@@ -1972,15 +1852,13 @@
 -
     index: 65
     todo:
-        - "fix filename"
-        - "fix original name"
         - "list segments"
         - "Check segment timestamps."
         - "list sponsors (if sponsors segment exists)"
         - "transclude credits"
         - "decode credits mojibake"
         - "line wrap credits for this file better"
-    filename:       ""
+    filename:       "S3E6_Coming_Out_2021.mp3"
     season:         3
     episode:        6
     original_name:  "Coming Out 2021"
